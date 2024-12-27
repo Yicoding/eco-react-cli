@@ -2,7 +2,7 @@
 title: 用于快速创建项目的脚手架
 hero:
   title: eco-react-cli
-  description: 用于快速创建项目的脚手架
+  description: 用于快速创建react项目的脚手架
   actions:
     - text: 快速开始
       link: /guide
